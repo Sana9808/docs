@@ -1,3 +1,4 @@
+![1647950529023](https://user-images.githubusercontent.com/90550789/168883232-818c7ec3-aecc-488f-a0ad-5e15d3ba7de0.jpg)
 ---
 title: Getting changes from a remote repository
 intro: You can use common Git commands to access remote repositories.
